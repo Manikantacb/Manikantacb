@@ -15,15 +15,15 @@
   6. CSCI:544 Applied Natural Language Processing
   7. EE:503 Probability for Electrical and Computer Engineers
 
-- 🌱 I’m currently learning Probability and Statistics for Data Science.
+- 🌱 He is currently learning Probability and Statistics for Data Science.
 
-- 👯 I’m looking forward to collaborating on projects related to healthcare data science. I have always wanted to solve challenges in the healthcare industry. The power of AI is Impeccable and can solve the biggest problems in this industry and I would like to leverage my skills and work on impactful projects.
+- 👯 He is looking forward to collaborating on projects related to healthcare data science. I have always wanted to solve challenges in the healthcare industry. The power of AI is Impeccable and can solve the biggest problems in this industry and I would like to leverage my skills and work on impactful projects.
 
-- 🤔 I’m looking for Mentors who can guide me through my data science journey. 
+- 🤔 He is looking for Mentors who can guide me through my data science journey. 
 
-- 💬 Ask me about data science, machine learning, or deep learning. 
+- 💬 Ask him about data science, machine learning, or deep learning. 
 
-- 📫 Feel free to shoot me an [EMAIL](cb.manikanta@gmail.com)
+- 📫 Feel free to shoot him an [EMAIL!](cb.manikanta@gmail.com)
 
 
 <!--
