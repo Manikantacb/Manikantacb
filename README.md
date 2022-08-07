@@ -17,9 +17,9 @@
 
 - 🌱 He is currently learning Probability and Statistics for Data Science.
 
-- 👯 He is looking forward to collaborating on projects related to healthcare data science. I have always wanted to solve challenges in the healthcare industry. The power of AI is Impeccable and can solve the biggest problems in this industry and I would like to leverage my skills and work on impactful projects.
+- 👯 He is looking forward to collaborating on projects related to healthcare data science. He always wanted to solve challenges in the healthcare industry. He beleives the power of AI is Impeccable and can solve the biggest problems in this industry. He would like to leverage his skills and work on impactful projects.
 
-- 🤔 He is looking for Mentors who can guide me through my data science journey. 
+- 🤔 He is looking for Mentors who can guide him through his data science journey. He would be glad to connect with people who can inspire, motivate, support and collaborate with him!
 
 - 💬 Ask him about data science, machine learning, or deep learning. 
 
