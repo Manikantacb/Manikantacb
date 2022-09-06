@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//manikanta-chunduru-balaji-253a93103/) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/manikantacb) 
+
 ## About
 
 - 🔭 Manikanta is a passionate Data Science and Machine learning enthusiast. He is currently pursuing a Master of Science degree in Applied Data Science at the University of Southern California. His research interests are in the intersection of Data Science, Machine Learning, and Deep Learning.
