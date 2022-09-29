@@ -6,7 +6,7 @@
 
 - 🔭 Manikanta is a passionate Data Science and Machine learning enthusiast. He is currently pursuing a Master of Science degree in Applied Data Science at the University of Southern California. His research interests are in the intersection of Data Science, Machine Learning, and Deep Learning.
 
-  Manikanta recently completed his internship as a Machine Learning Engineer Intern at Space and Time Labs Inc. He collaborated with a team of dedicated engineers in building the first decentralized analytics platform.
+  Manikanta recently completed his internship as a Machine Learning Engineer Intern at Space and Time Labs Inc. He collaborated with a team of dedicated engineers in building a decentralized analytics application.
   
   Manikanta has 2.5 years of professional work experience in the IT industry. He intially worked as and Automation Engineer at Empower retirement for about 1 year and 5 months. Later he worked as an Automation Engineer at Dassault Systemes.
   
