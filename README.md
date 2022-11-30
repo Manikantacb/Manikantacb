@@ -19,6 +19,7 @@
   5. DSCI:553 Foundations and Applications of Data Mining
   6. CSCI:544 Applied Natural Language Processing
   7. EE:503 Probability for Electrical and Computer Engineers
+  8. DSCI:560 Data Science Professional Practicum
 
 - 🌱 He is currently learning Probability and Statistics for Data Science.
 
