@@ -4,7 +4,7 @@
 
 ## About
 
-- 🔭 Manikanta is a passionate Data Science and Machine learning enthusiast. He is currently pursuing a Master of Science degree in Applied Data Science at the University of Southern California. His research interests are in the intersection of Data Science, Machine Learning, and Deep Learning.
+- 🔭 Manikanta is a passionate Data Science and Machine learning enthusiast. He recently graduated from University of Southern California with a Master of Science degree in Applied Data Science. His research interests are in the intersection of Data Science, Machine Learning, and Deep Learning.
 
   Manikanta recently completed his internship as a Machine Learning Engineer Intern at Space and Time Labs Inc. He collaborated with a team of dedicated engineers in building a Web3 decentralized analytics application.
   
